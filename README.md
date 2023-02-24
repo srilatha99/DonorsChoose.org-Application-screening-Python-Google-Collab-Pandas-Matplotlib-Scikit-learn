@@ -1,2 +1,2 @@
 # DonorsChoose.org-Application-screening-Python-Google-Collab-Pandas-Matplotlib-Scikit-learn
-Built a model that uses classification to determine if the project can be offered funding. • Automated the process of screening large number of applications received by DonorsChoose.org using classification. • Used KNN, Naive Bayes and Linear Regression classifiers for the model and the dataset used is from Kaggle.
+Built a model that uses classification to determine if the project can be offered funding. Automated the process of screening large number of applications received by DonorsChoose.org using classification. Used KNN, Naive Bayes and Linear Regression classifiers for the model and the dataset used is from Kaggle.
